@@ -45,3 +45,4 @@ describe Cat do
     end
   end
 end
+end
